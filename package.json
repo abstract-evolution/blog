@@ -10,6 +10,10 @@
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.0",
+    "gulp-insert": "^0.5.0",
     "gulp-marked": "^1.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.5"
   }
 }
